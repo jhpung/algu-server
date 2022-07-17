@@ -1,0 +1,11 @@
+spring:
+  security:
+    user:
+      name: user
+      password: fa1865qr!@
+
+  data:
+    mongodb:
+      database: algu
+      authentication-database: admin
+      uri: mongodb+srv://algu-server:FqCSa7GVMEhZgFjq@algu-db.kbu7l.mongodb.net/?retryWrites=true&w=majority
